@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management App
 
 A full-stack task management application built for a 2–3 day take-home assignment.
@@ -207,3 +208,6 @@ chore: add deployment and environment documentation
 ```
 
 Do not commit `.env`, credentials, API keys or uploaded files.
+=======
+# task-management-system
+>>>>>>> 4dcba5ad2b732766c5b4b1fa865b79bb69815af5
